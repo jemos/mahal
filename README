@@ -1,7 +1,6 @@
 mahal v0.1
-Copyright (C) 2010 Jean-François Mousinho
-Centro de Informatica do Instituto Superior Técnico
-da Universidade Tecnica de Lisboa.
+
+INTRODUCTION
 
 Description: tool of artimetic processement for supervisioned classifier
 using Mahalanobis distance and K-NN. 
@@ -20,3 +19,7 @@ Check ./mahal -h
 
 EXAMPLES
 
+--
+
+
+Copyright (c) 2012 - Jean-François Mousinho
