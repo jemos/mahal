@@ -627,7 +627,6 @@ void usage(void)
 {
 	printf("mahal v0.1 "
 			"Copyright (C) 2010 Jean-François Mousinho\n"
-			"Instituto Superior Tecnico - Universidade Tecnica de Lisboa\n"
 			"\n"
 			"Usage: mahal [options] [-t file] [-i file] [-o file] [-k kParam]\n"
 			"     -t            Train set matrix file, def: set_train.txt\n"
